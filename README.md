@@ -1,5 +1,9 @@
 # TO-DO-LIST
 
+<div align="center">
+<img  src="img.png">
+</div>
+
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
 ABOUT THIS PROJECT-:
